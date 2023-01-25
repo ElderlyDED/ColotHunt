@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: be92bb1f53d8ebc4a80aa43f6e4b6bf6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2172946f75e3b7449d6e988dcbc1147
+      internalID: -1020752427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89aa3bedd6c8848b0ff7854301c101
+      internalID: -2135873250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9c647cd85ef04d8dc4669043e42e1
+      internalID: 1815275162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff1117df89bc3489618d71a31e3661
+      internalID: 582376869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30dbdd899ad3f499a342ba203e9411
+      internalID: 1390732037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1c8d5ed2c9a24288adebe92af6ed5
+      internalID: -463299246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e91b08dd3144c499fc0af0d2812bd0
+      internalID: 1279850186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab54e49a2cee543ad853582252ed3e
+      internalID: 1991826470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5e694a4ddd3847b9838d747ca9eaa
+      internalID: -231003927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d444da1029fc49ace40a44d60fd7c
+      internalID: -495820190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23fdf21d9d9bc4ba8f887ea049bb36
+      internalID: 480203556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc1777e30a5b2f4d883391c437dd4cb
+      internalID: 406536642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 168
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b25b33b753424ca2e8b2919ab2707
+      internalID: -754771653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af1c5cc81b6ea4a91e298d79c6a246
+      internalID: -1822450930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdfb1b618eaff14d8287c92fb4e9e6f
+      internalID: -1170933567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506c1a1faa28394498afaa75f79790e
+      internalID: -1097276764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c4d8b10053d34ca6b48e2f0d3ad63
+      internalID: -938991492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd22d0be7634a5499889b28d79555d1
+      internalID: -684288815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e17707e6f05c40b2be45c399e2e74
+      internalID: -699537933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1fd3bee752294ea64d74fef0fce3a
+      internalID: -289389870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30995359a5fc24d936a90be7ca7e10
+      internalID: -459269719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d89169108fe24889c8e38c4cf426a
+      internalID: 965757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851d4bf53a1430448f3af9edec4ccf8
+      internalID: 843925529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280def9a4df367248a5a8eb8a0b3150e
+      internalID: 345703372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c22d7c27062a4e83c2249f1796ab4
+      internalID: -1990139194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 127
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff53dbde618922f44aa3fba3d3a42a68
+      internalID: 200115196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8916ba718192d4f923170e92b5f2d0
+      internalID: -1672902765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d1645505a7fb4891d82949afc949a
+      internalID: 73266040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5012ecd78a535474686030466da02177
+      internalID: -1416945823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09c6545b5cd224ebce38295fe81c10
+      internalID: -1965758959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1ea1fe66653548901b8742eef8018
+      internalID: 63437784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c72fdf104bb645b00f3abd46f9b20
+      internalID: 439554260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ce5360094b914c8c4e7697777a408
+      internalID: -1850299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 86
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb8174774948449b647dcbdf1968ed
+      internalID: 1427847944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709406e7178b164a83dd2f590db0bf6
+      internalID: 578124107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4911e0ff0683488806c9d95a4dc04
+      internalID: 138658270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899462e5f322a94cbff5d1f1680982f
+      internalID: -1149263992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744437b3d71ed3458ce22ece611983c
+      internalID: 1268909899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d278840f211a0d419703eb81a7a4cdb
+      internalID: -29297536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7122c1caf4164eb8a6728c46f552b
+      internalID: -193280226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78409f85f4b9d1c4d83224c8b4a17799
+      internalID: -947046338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976595925dc321749a848a85858d387d
+      internalID: 827616413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea684036fecf85443bd67fe01e6f4328
+      internalID: -183630017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a76ab8e0bc6f4fbd5143aac82e4e3
+      internalID: 911682611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallANDfloor-Sheet_final_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0468ecc962324480abcfaf900a466
+      internalID: -809204122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WallANDfloor-Sheet_final_11: 406536642
+      WallANDfloor-Sheet_final_8: -231003927
+      WallANDfloor-Sheet_final_36: -1149263992
+      WallANDfloor-Sheet_final_18: -699537933
+      WallANDfloor-Sheet_final_31: 439554260
+      WallANDfloor-Sheet_final_35: 138658270
+      WallANDfloor-Sheet_final_20: -459269719
+      WallANDfloor-Sheet_final_1: -2135873250
+      WallANDfloor-Sheet_final_33: 1427847944
+      WallANDfloor-Sheet_final_22: 843925529
+      WallANDfloor-Sheet_final_32: -1850299314
+      WallANDfloor-Sheet_final_19: -289389870
+      WallANDfloor-Sheet_final_10: 480203556
+      WallANDfloor-Sheet_final_0: -1020752427
+      WallANDfloor-Sheet_final_4: 1390732037
+      WallANDfloor-Sheet_final_44: -809204122
+      WallANDfloor-Sheet_final_7: 1991826470
+      WallANDfloor-Sheet_final_30: 63437784
+      WallANDfloor-Sheet_final_2: 1815275162
+      WallANDfloor-Sheet_final_16: -938991492
+      WallANDfloor-Sheet_final_12: -754771653
+      WallANDfloor-Sheet_final_38: -29297536
+      WallANDfloor-Sheet_final_9: -495820190
+      WallANDfloor-Sheet_final_34: 578124107
+      WallANDfloor-Sheet_final_43: 911682611
+      WallANDfloor-Sheet_final_17: -684288815
+      WallANDfloor-Sheet_final_13: -1822450930
+      WallANDfloor-Sheet_final_6: 1279850186
+      WallANDfloor-Sheet_final_39: -193280226
+      WallANDfloor-Sheet_final_5: -463299246
+      WallANDfloor-Sheet_final_3: 582376869
+      WallANDfloor-Sheet_final_37: 1268909899
+      WallANDfloor-Sheet_final_28: -1416945823
+      WallANDfloor-Sheet_final_42: -183630017
+      WallANDfloor-Sheet_final_24: -1990139194
+      WallANDfloor-Sheet_final_15: -1097276764
+      WallANDfloor-Sheet_final_29: -1965758959
+      WallANDfloor-Sheet_final_26: -1672902765
+      WallANDfloor-Sheet_final_23: 345703372
+      WallANDfloor-Sheet_final_40: -947046338
+      WallANDfloor-Sheet_final_27: 73266040
+      WallANDfloor-Sheet_final_21: 965757668
+      WallANDfloor-Sheet_final_25: 200115196
+      WallANDfloor-Sheet_final_41: 827616413
+      WallANDfloor-Sheet_final_14: -1170933567
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
